@@ -8,7 +8,7 @@ Usage
 Explore the Home page to learn more about my professional background and use the Contact page to get in touch with me.
 
 How to view
-You can access my reestar website by visiting [link] feel free to explore the content and get in touch!
+You can access my reestar website by visiting [https://angalaparamesh.github.io/Reestar-Website/] feel free to explore the content and get in touch!
 
 ##Contributing
 
