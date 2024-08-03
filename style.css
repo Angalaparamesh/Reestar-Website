@@ -1,0 +1,140 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header-one{
+    background-color:black;
+    margin:10px;
+    margin-left:80px;
+    margin-right:80px;
+    margin-top:70px;
+    padding:10px;
+    color:white;
+    text-align:center;
+}
+.header-one_head{
+    margin:5px;
+    color:rgb(88, 78, 78);
+}
+.header-two__border1{
+    height:370px;
+    width:200px;
+    border:2px solid black;
+    margin-left:250px;
+    display:inline-block;
+  
+}
+.header-two__img,.header-two__img1,.header-two__img2,.header-two__img3{
+    width:200px;
+}
+.header-two__img1{
+    height:263px;
+}
+.header-two__img2,.header-two__img3
+{
+    height:263px;
+}
+.header-two__title,.header-two__title1,.header-two__title2,.header-two__title3{
+    padding:3px;
+    margin-left:15px;
+    font-weight:bold;
+}
+.header-two__desc,.header-two__desc1,.header-two__desc2,.header-two__desc3{
+    padding:2px;
+    margin-left:15px;
+}
+.header-two__some,.header-two__some1,.header-two__some2,.header-two__some3{
+    margin-left:70px;
+}
+.header-two__butt{
+    margin:16px;
+    margin-left:60px;
+    padding:5px;
+    background-color:goldenrod;
+    color:black;
+    display:inline-block;
+    border:none;
+}
+.header-two__butt:hover,.header-two__butt1:hover,.header-two__butt2:hover,.header-two__butt3:hover{
+    background-color: black;
+    color:white;
+}
+.header-three__butt:hover
+{
+    background-color: white;
+    color:black;
+}
+.header-two__border2{
+    height:370px;
+    width:200px;
+    border:2px solid black;
+    display:inline-block;
+    vertical-align: top;
+}
+.header-two__butt1{
+    margin:15px;
+    margin-left:60px;
+    padding:5px;
+    background-color:goldenrod;
+    color:black;
+    display:inline-block;
+    border:none;
+}
+.header-two__border3{
+    height:370px;
+    width:200px;
+    border:2px solid black;
+    display:inline-block;
+    vertical-align: top;
+}
+.header-two__butt2{
+    margin:15px;
+    margin-left:60px;
+    padding:5px;
+    background-color:goldenrod;
+    color:black;
+    display:inline-block;
+    border:none;
+}
+.header-two__border4{
+    height:370px;
+    width:200px;
+    border:2px solid black;
+    display:inline-block;
+    vertical-align: top;
+}
+.header-two__butt3{
+    margin:15px;
+    margin-left:60px;
+    padding:5px;
+    background-color:goldenrod;
+    color:black;
+    display:inline-block;
+    border:none;
+}
+.header-three{
+    background-color:black;
+    margin:10px;
+    margin-left:80px;
+    margin-right:80px;
+    margin-bottom:170px;
+    padding:10px;
+    color:white;
+    text-align:center;
+    border:none;
+}
+.header-three__head{
+    font-size:25px;
+    margin-top:10px;
+}
+.header-three__title{
+    text-align:justify;
+}
+.header-three__butt{
+    width:450px;
+    height:25px;
+    background-color:gold;
+    color:black;
+    margin-top:10px;
+    border:none;
+}
